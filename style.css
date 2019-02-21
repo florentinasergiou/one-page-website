@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Barrio'; font-size: 42px;
+    color: darkviolet
+}
+h6 {
+    font-family: 'Merriweather';
+    color: darkturquoise
+}
+p {
+    font-family: 'Merriweather';
+    color: dimgray
+}
+body {
+  background-color: aliceblue
+}
